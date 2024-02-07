@@ -66,9 +66,9 @@ public class Q1_Task18 {
 				.getText();
 
 		if (verifyText.equals("Enter the code from your email")) {
-			System.out.println("The page is naivagted to Email verfication screen successful");
+			System.out.println("The page is navigated to Email verification screen successfully");
 		} else {
-			System.out.println("The page naivagtion to Email verfication screen failed");
+			System.out.println("The page navigation to Email verification screen failed");
 		}
 
 	}
